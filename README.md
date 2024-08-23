@@ -2,6 +2,8 @@
 
 In this project, I practiced working with partially completed modules. I styled existing plugins, modified themes created by other developers, added styles to already completed modules, and implemented working JavaScript code.
 
+[Desploy](https://akseee.github.io/posmotri_v_okno/)
+
 #### Features
 
 **Dynamic Video Loading**
